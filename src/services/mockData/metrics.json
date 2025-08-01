@@ -1,0 +1,12 @@
+{
+  "totalPatients": 1247,
+  "todayAppointments": 38,
+  "availableBeds": 15,
+  "pendingTasks": 7,
+  "totalStaff": 89,
+  "emergencyCases": 3,
+  "dischargedToday": 12,
+  "averageStayDays": 4.2,
+  "occupancyRate": 85.4,
+  "patientSatisfaction": 4.7
+}

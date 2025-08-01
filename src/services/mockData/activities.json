@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "type": "admission",
+    "patientName": "Sarah Johnson",
+    "patientId": 1,
+    "description": "was admitted for appendicitis surgery",
+    "timestamp": "2024-01-15T08:30:00Z",
+    "doctor": "Dr. Michael Chen"
+  },
+  {
+    "Id": 2,
+    "type": "emergency",
+    "patientName": "Robert Martinez",
+    "patientId": 2,
+    "description": "arrived in emergency with chest pain",
+    "timestamp": "2024-01-18T14:20:00Z",
+    "doctor": "Dr. Emily Rodriguez"
+  },
+  {
+    "Id": 3,
+    "type": "treatment",
+    "patientName": "Jennifer Davis",
+    "patientId": 3,
+    "description": "started IV antibiotic treatment",
+    "timestamp": "2024-01-20T09:15:00Z",
+    "doctor": "Dr. David Kim"
+  },
+  {
+    "Id": 4,
+    "type": "discharge",
+    "patientName": "Michael Thompson",
+    "patientId": 4,
+    "description": "was discharged in stable condition",
+    "timestamp": "2024-01-12T16:45:00Z",
+    "doctor": "Dr. Sarah Wilson"
+  },
+  {
+    "Id": 5,
+    "type": "admission",
+    "patientName": "Amanda Wilson",
+    "patientId": 5,
+    "description": "was admitted for diabetes management",
+    "timestamp": "2024-01-22T11:30:00Z",
+    "doctor": "Dr. James Park"
+  },
+  {
+    "Id": 6,
+    "type": "emergency",
+    "patientName": "Christopher Lee",
+    "patientId": 6,
+    "description": "rushed to ER with severe allergic reaction",
+    "timestamp": "2024-01-25T07:20:00Z",
+    "doctor": "Dr. Lisa Chang"
+  },
+  {
+    "Id": 7,
+    "type": "medication",
+    "patientName": "Jessica Brown",
+    "patientId": 7,
+    "description": "medication dosage adjusted",
+    "timestamp": "2024-01-19T13:10:00Z",
+    "doctor": "Dr. Kevin Anderson"
+  },
+  {
+    "Id": 8,
+    "type": "discharge",
+    "patientName": "Daniel Garcia",
+    "patientId": 8,
+    "description": "completed rehabilitation program and discharged",
+    "timestamp": "2024-01-17T10:25:00Z",
+    "doctor": "Dr. Rachel Green"
+  },
+  {
+    "Id": 9,
+    "type": "admission",
+    "patientName": "Ashley Miller",
+    "patientId": 9,
+    "description": "admitted for maternity care",
+    "timestamp": "2024-01-24T15:40:00Z",
+    "doctor": "Dr. Thomas White"
+  },
+  {
+    "Id": 10,
+    "type": "treatment",
+    "patientName": "Kevin Anderson",
+    "patientId": 10,
+    "description": "started physical therapy session",
+    "timestamp": "2024-01-21T12:55:00Z",
+    "doctor": "Dr. Michelle Taylor"
+  },
+  {
+    "Id": 11,
+    "type": "appointment",
+    "patientName": "Sarah Johnson",
+    "patientId": 1,
+    "description": "post-surgery follow-up scheduled",
+    "timestamp": "2024-01-16T14:00:00Z",
+    "doctor": "Dr. Michael Chen"
+  },
+  {
+    "Id": 12,
+    "type": "medication",
+    "patientName": "Robert Martinez",
+    "patientId": 2,
+    "description": "cardiac medication protocol initiated",
+    "timestamp": "2024-01-18T16:30:00Z",
+    "doctor": "Dr. Emily Rodriguez"
+  }
+]

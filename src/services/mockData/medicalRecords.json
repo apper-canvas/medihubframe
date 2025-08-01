@@ -1,0 +1,196 @@
+[
+  {
+    "Id": 1,
+    "patientId": 1,
+    "history": [
+      {
+        "date": "2024-01-15",
+        "condition": "Appendicitis",
+        "treatment": "Laparoscopic appendectomy",
+        "doctor": "Dr. Michael Chen"
+      },
+      {
+        "date": "2023-03-22",
+        "condition": "Hypertension",
+        "treatment": "Medication management",
+        "doctor": "Dr. Sarah Wilson"
+      }
+    ],
+    "currentTreatment": {
+      "condition": "Post-operative recovery",
+      "plan": "Pain management and wound care",
+      "startDate": "2024-01-15",
+      "expectedDuration": "7-10 days"
+    },
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "600mg",
+        "frequency": "Every 6 hours",
+        "prescribedBy": "Dr. Michael Chen",
+        "startDate": "2024-01-15"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Daily",
+        "prescribedBy": "Dr. Sarah Wilson",
+        "startDate": "2023-03-22"
+      }
+    ],
+    "labResults": [
+      {
+        "date": "2024-01-15",
+        "test": "Complete Blood Count",
+        "results": "WBC: 12.5, RBC: 4.2, Hemoglobin: 13.8",
+        "status": "Slightly elevated WBC"
+      },
+      {
+        "date": "2024-01-14",
+        "test": "CT Scan Abdomen",
+        "results": "Acute appendicitis confirmed",
+        "status": "Abnormal"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2024-01-16",
+        "author": "Dr. Michael Chen",
+        "note": "Patient recovering well post-surgery. Minimal pain reported. Incision sites healing properly."
+      },
+      {
+        "date": "2024-01-15",
+        "author": "Nurse Jennifer",
+        "note": "Surgery completed successfully. Patient stable in recovery."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "patientId": 2,
+    "history": [
+      {
+        "date": "2024-01-18",
+        "condition": "Myocardial Infarction",
+        "treatment": "Emergency cardiac catheterization",
+        "doctor": "Dr. Emily Rodriguez"
+      },
+      {
+        "date": "2022-11-15",
+        "condition": "Type 2 Diabetes",
+        "treatment": "Metformin therapy",
+        "doctor": "Dr. James Park"
+      }
+    ],
+    "currentTreatment": {
+      "condition": "Acute MI with stent placement",
+      "plan": "Cardiac monitoring and medication management",
+      "startDate": "2024-01-18",
+      "expectedDuration": "5-7 days"
+    },
+    "medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg",
+        "frequency": "Daily",
+        "prescribedBy": "Dr. Emily Rodriguez",
+        "startDate": "2024-01-18"
+      },
+      {
+        "name": "Metoprolol",
+        "dosage": "25mg",
+        "frequency": "Twice daily",
+        "prescribedBy": "Dr. Emily Rodriguez",
+        "startDate": "2024-01-18"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily",
+        "prescribedBy": "Dr. James Park",
+        "startDate": "2022-11-15"
+      }
+    ],
+    "labResults": [
+      {
+        "date": "2024-01-18",
+        "test": "Cardiac Enzymes",
+        "results": "Troponin I: 15.2 ng/mL (elevated)",
+        "status": "Critical - MI confirmed"
+      },
+      {
+        "date": "2024-01-18",
+        "test": "ECG",
+        "results": "ST elevation in leads II, III, aVF",
+        "status": "Abnormal - Inferior STEMI"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2024-01-19",
+        "author": "Dr. Emily Rodriguez",
+        "note": "Patient stable post-catheterization. Stent placed successfully in RCA. Continue monitoring."
+      },
+      {
+        "date": "2024-01-18",
+        "author": "ER Physician",
+        "note": "Patient presented with chest pain. Emergency cath lab activated. Door-to-balloon time: 45 minutes."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "patientId": 3,
+    "history": [
+      {
+        "date": "2024-01-20",
+        "condition": "Pneumonia",
+        "treatment": "Antibiotic therapy",
+        "doctor": "Dr. David Kim"
+      }
+    ],
+    "currentTreatment": {
+      "condition": "Community-acquired pneumonia",
+      "plan": "IV antibiotics and respiratory support",
+      "startDate": "2024-01-20",
+      "expectedDuration": "5-7 days"
+    },
+    "medications": [
+      {
+        "name": "Ceftriaxone",
+        "dosage": "1g",
+        "frequency": "Every 24 hours IV",
+        "prescribedBy": "Dr. David Kim",
+        "startDate": "2024-01-20"
+      },
+      {
+        "name": "Azithromycin",
+        "dosage": "500mg",
+        "frequency": "Daily",
+        "prescribedBy": "Dr. David Kim",
+        "startDate": "2024-01-20"
+      }
+    ],
+    "labResults": [
+      {
+        "date": "2024-01-20",
+        "test": "Chest X-ray",
+        "results": "Right lower lobe consolidation",
+        "status": "Abnormal - Pneumonia confirmed"
+      },
+      {
+        "date": "2024-01-20",
+        "test": "Blood Culture",
+        "results": "Pending",
+        "status": "In progress"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2024-01-21",
+        "author": "Dr. David Kim",
+        "note": "Patient responding well to antibiotics. Fever decreasing. Continue current treatment plan."
+      }
+    ]
+  }
+]
